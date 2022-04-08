@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/EventApp/static/css/main.f6d39089.css",
+    "main.js": "/EventApp/static/js/main.891ed2c0.js",
+    "static/js/787.b703b8a4.chunk.js": "/EventApp/static/js/787.b703b8a4.chunk.js",
+    "static/media/pic3.jpg": "/EventApp/static/media/pic3.f82c523c92a1811b9eee.jpg",
+    "static/media/img8.jpg": "/EventApp/static/media/img8.36f02e9218ed9c1f9f8c.jpg",
+    "static/media/img7.jpg": "/EventApp/static/media/img7.84e6da89d2450b2bb16c.jpg",
+    "static/media/pic2.jpg": "/EventApp/static/media/pic2.eb4edafd353f28d38d28.jpg",
+    "static/media/img5.jpg": "/EventApp/static/media/img5.b8a0ece763f2529d121b.jpg",
+    "static/media/img1.jpg": "/EventApp/static/media/img1.d67249ef0ee071e50104.jpg",
+    "static/media/img2.jpg": "/EventApp/static/media/img2.7e5df106421573404fe7.jpg",
+    "static/media/pic1.jpg": "/EventApp/static/media/pic1.6b3dc243add285e46cfb.jpg",
+    "static/media/img3.jpg": "/EventApp/static/media/img3.2c06d6f1f6d4b7ca34aa.jpg",
+    "static/media/img6.jpg": "/EventApp/static/media/img6.5d1ca449628f2c64a6d7.jpg",
+    "static/media/img4.jpg": "/EventApp/static/media/img4.50a13a8620b35c197a90.jpg",
+    "index.html": "/EventApp/index.html",
+    "main.f6d39089.css.map": "/EventApp/static/css/main.f6d39089.css.map",
+    "main.891ed2c0.js.map": "/EventApp/static/js/main.891ed2c0.js.map",
+    "787.b703b8a4.chunk.js.map": "/EventApp/static/js/787.b703b8a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6d39089.css",
+    "static/js/main.891ed2c0.js"
+  ]
+}
